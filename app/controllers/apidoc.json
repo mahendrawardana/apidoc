@@ -1,0 +1,20 @@
+{
+  "name": "Hooki Pay API",
+  "version": "0.3.0",
+  "description": "This is API from Hooki Pay for merchant money transaction",
+  "title": "Hooki Pay API",
+  "url" : "localhost:8083",
+  "sampleUrl": "localhost:8083",
+  "header": {
+    "title": "Get Starting",
+    "filename": "header.md"
+  },
+  "footer": {
+    "title": "Credits",
+    "filename": "footer.md"
+  },
+  "template": {
+  	"withCompare": true,
+  	"withGenerator": true
+  }
+}
